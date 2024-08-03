@@ -1,0 +1,18 @@
+Column,Description
+Person.ID,An identifier for each individual
+Gender,The gender of the person (Male/Female)
+Age,The age of the person in years
+Occupation,The occupation or profession of the person
+Sleep.Duration,The number of hours the person sleeps per day
+Quality.of.Sleep,"A subjective rating of the quality of sleep, ranging from 1 to 10"
+Physical.Activity.Level,The number of minutes the person engages in physical activity daily
+Stress.Level,"A subjective rating of the stress level experienced by the person, ranging from 1 to 10"
+BMI.Category,"The BMI category of the person (e.g., Underweight, Normal, Overweight)"
+Systolic,"The blood pressure measurement of the person, indicated as systolic pressure"
+Dyastolic,"The blood pressure measurement of the person, indicated as diastolic pressure"
+Daily.Steps,The number of steps the person takes per day
+Sleep.Disorder,"The presence or absence of a sleep disorder in the person (None, Insomnia, Sleep Apnea)"
+Groups,"Two Groups, where one would perform exercise, such as 5 series of 15 squats and the other group would rest. After the exercise group is finished, both groups will be asked to measure their pulse again. The participants are divided into two groups, such that age and gender are evenly distributed."
+Post exercise heart rate for each participant,
+pre_heart_rate,The resting heart rate of the person in beats per minute (bpm)
+post_heart_rate,Post exercise heart rate of the person in beats per minute (bpm)

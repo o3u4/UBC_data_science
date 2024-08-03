@@ -1,0 +1,50 @@
+variable,explanation,Description
+,,
+MON,test month,
+DAY,test dat,
+TY,test year,
+TIME,test time,
+CENTRE,inspection centre number,
+LANE,inspection centre lane,
+REGI,vehicle registration number,
+TTYPE,test type (Initial or Reinspection),
+MYEAR,vehicle model year,
+MANU,manufacturer,
+MAKE,make,
+MODEL,model,
+VIN,VIN,
+VTYPE,"Passenger, Light truck, Heavy truck",
+WEIGHT,empty weight,
+ODOM,odometer reading in thousands,
+DISPLACE,engine displacement,
+ECSRES,emission components inspection results,
+HC1ST,idle HC standard ppm,HC1 emissions as measured per industry standard test scenario when idle
+CO1ST,idle CO standard %,CO1 emissions as measured per industry standard test scenario when idle
+HC2ST,ASM HC standard ppm,HC1 emissions as measured per industry standard test scenario in accelarion standard mode
+CO2ST,ASM CO standard %,CO2 emissions as measured per industry standard test scenario in accelarion standard mode
+NOX2ST,ASM Nox standard ppm,NOX emissions as measured per industry standard test scenario in accelarion standard mode
+HC1,idle HC reading,HC1 reading not in industry standard scenario (real life driving) when idle 
+CO1,idle cCO reading,CO1 reading not in industry standard scenario (real life driving) when idle 
+HC2,ASM HC reading,HC2 emissions as measured real life test scenario in accelarion standard mode
+CO2,ASM CO reading,CO2 emissions as measured real life test scenario in accelarion standard mode
+NOX2,ASM Nox reading,NOX emissions as measured real life test scenario in accelarion standard mode
+EMISRES,emission test result (P or F),"Overal emission (HC1, Co1, NOX in industry standard scenario?) test"
+FUEL,fuel code,
+HC4,second chance idle HC reading,"HC emissions readings taken during a real-world driving scenario, second chance"
+CO4,second chance idle CO reading,"CO emissions readings taken during a real-world driving scenario, second chance"
+HC5,high idle HC reading,"HC emissions readings taken during a real-world driving scenario, elevated idle speed "
+CO5,high idle CO reading,"CO emissions readings taken during a real-world driving scenario, elevated idle speed "
+FWD,front wheel drive,
+WLIGHT,warning lights,
+CYLS,number of cylinders,
+CARB,number of carburettors,
+TRAN,transmission type,
+GEARS,number of gears,
+CATT,"catalyst type (Threeway, Oxidation, None)",
+VIN4,4th character of VIN,
+CATEG,cutpoint category,
+HC1RES,idle HC result,HC measured during idle standardized industry test
+CO1RES,idle CO result,CO measured during idle standardized industry test
+HC2RES,ASM HC result,HC measured during Acceleration Simulation Mode (ASM) standardized industry test
+CO2RES,ASM CO result,CO2 measured during Acceleration Simulation Mode (ASM) standardized industry test
+NOX2RES,ASM Nox result,NOX measured during Acceleration Simulation Mode (ASM) standardized industry test
